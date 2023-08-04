@@ -1,2 +1,2 @@
-# Site-Tabelas
-https://enzokrebs8.github.io/Site-Tabelas/
+# Site-Tabela
+https://enzokrebs8.github.io/Site-Tabela/
